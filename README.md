@@ -1,4 +1,4 @@
-# Control virtual de mouse con Movimiento de los ojos 🐀
+# Control virtual de mouse con movimiento de los ojos 🐀
 
 Este script en python captura el movimiento de los ojos utilizando la biblioteca [MediaPipe](https://developers.google.com/mediapipe) y controla el movimiento del mouse en la pantalla utilizando la biblioteca PyAutoGUI.
 
