@@ -1,0 +1,41 @@
+# Archivos y directorios generados por Python y IDEs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+__pycache__/
+venv/
+.idea/
+
+# Archivos y directorios generados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración
+config.ini
+*.config
+
+# Archivos y directorios generados por herramientas
+dist/
+build/
+*.egg-info/
+.env
+*.lock
+node_modules/
+npm-debug.log*
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*.tmp
+
+# Archivos y directorios específicos para entornos de desarrollo
+.vscode/
+.vscode-server/
+
+# Entornos virtuales y dependencias
+venv/
+env/
