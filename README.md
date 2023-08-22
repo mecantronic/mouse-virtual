@@ -12,11 +12,11 @@ Este script en python captura el movimiento de los ojos utilizando la biblioteca
 
 1. Clona este repositorio:
 ``` bash
-git clone https://github.com/mecantronic/
+git clone https://github.com/mecantronic/mouse-virtual
 ```
 2. Accede al directorio del proyecto:
 ``` bash
-cd 
+cd mouse-virtual
 ```
 3. Crea y activa el entorno virtual:
 ``` bash
@@ -30,10 +30,10 @@ pip install -r requeriments.txt # En Windows: venv\Scripts\activate
 
 ## Ejecutar el Mouse Virtual  ▶️
 
-Para ejecutar el teclado virtual, simplemente corra el script teclado_virtual.py:
+Para ejecutar el mouse virtual, simplemente corra el script mouse_virtual.py:
 
 ``` bash
-python teclado_virtual.py
+python mouse_virtual.py
 ```
 
 ## Cómo contribuir 🤝
